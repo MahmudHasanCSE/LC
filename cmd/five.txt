@@ -1,0 +1,29 @@
+black in ~ via 💾 4GiB/23GiB 
+❯ sudo chmod 640 /home/devops/os-concepts/file1.txt                                     
+black in ~ via 💾 4GiB/23GiB 
+❯ sudo chmod 640 /home/devops/os-concepts/file2.txt
+black in ~ via 💾 4GiB/23GiB 
+❯ sudo chmod 640 /home/devops/ubuntu-is-the-best/file1.txt
+black in ~ via 💾 4GiB/23GiB 
+❯ sudo chmod 640 /home/devops/ubuntu-is-the-best/file2.txt
+black in ~ via 💾 4GiB/23GiB 
+❯ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

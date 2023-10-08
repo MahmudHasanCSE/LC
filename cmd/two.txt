@@ -1,0 +1,29 @@
+black in ~ via 💾 4GiB/23GiB 
+❯ sudo mkdir /home/devops/ubuntu-is-the-best
+[sudo] password for black: 
+mkdir: cannot create directory ‘/home/devops/ubuntu-is-the-best’: File exists
+black in ~ via 💾 4GiB/23GiB took 2s 
+❯ sudo mkdir /home/devops/os-concepts
+mkdir: cannot create directory ‘/home/devops/os-concepts’: File exists
+black in ~ via 💾 4GiB/23GiB 
+❯ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

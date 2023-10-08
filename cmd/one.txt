@@ -1,0 +1,75 @@
+black in ~/Desktop via 💾 4GiB/23GiB 
+❯ pwd
+/home/black/Desktop
+black in ~/Desktop via 💾 4GiB/23GiB 
+❯ sudo groupadd first-group
+[sudo] password for black: 
+black in ~/Desktop via 💾 4GiB/23GiB took 4s 
+❯ sudo useradd -m -g first-group devops
+black in ~/Desktop via 💾 4GiB/23GiB 
+❯ getent passwd | cut -d: -f1
+
+root
+...
+black
+mongodb
+devops
+black in ~/Desktop via 💾 4GiB/23GiB 
+❯ getent group | cut -d: -f1
+
+root
+daemon
+bin
+...
+_cvsadmin
+mongodb
+first-group
+black in ~/Desktop via 💾 4GiB/23GiB 
+❯ groups devops
+devops : first-group
+black in ~/Desktop via 💾 4GiB/23GiB 
+❯ id -gn devops
+first-group
+black in ~/Desktop via 💾 4GiB/23GiB 
+❯ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

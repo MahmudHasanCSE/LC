@@ -1,0 +1,29 @@
+black in ~ via 💾 4GiB/23GiB 
+❯ sudo touch /home/devops/ubuntu-is-the-best/file1.txt
+[sudo] password for black: 
+black in ~ via 💾 4GiB/23GiB took 3s 
+❯ sudo touch /home/devops/ubuntu-is-the-best/file2.txt
+black in ~ via 💾 4GiB/23GiB 
+❯ sudo ls /home/devops/ubuntu-is-the-best
+file1.txt  file2.txt
+black in ~ via 💾 4GiB/23GiB 
+❯ sudo ls /home/devops/os-concepts
+file1.txt  file2.txt
+black in ~ via 💾 4GiB/23GiB 
+❯ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
